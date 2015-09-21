@@ -1,6 +1,6 @@
 Download file and run using Python 2.7. You will need PIL (Python Imaging Library) for the program to run.
 
-Goal of the Python program was to allow quick and easy traversal through a map. The map is modeled after a city:
+Goal of the Python program was to allow quick and easy traversal through a map. The map is modeled after a city, with applicable rules of right of way for other robots:
 -White "shoulders" of the road indicate that the robot can proceed at a normal speed.
 -Yellow shoulder indicate reduced speed.
 -Red lines are equivalent to stop signs.
